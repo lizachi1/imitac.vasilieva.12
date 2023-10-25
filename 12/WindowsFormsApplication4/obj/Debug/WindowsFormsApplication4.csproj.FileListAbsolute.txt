@@ -1,0 +1,11 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\12\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
